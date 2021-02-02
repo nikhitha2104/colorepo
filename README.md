@@ -34,3 +34,14 @@ s.no|s.name|s.marks
 1|Nikki|100
 2|Rafath|100
 3|Neelu|100
+
+# insert image:
+![alt myimg](niklaus.jpg)
+
+# insert a code
+Explain about sum of two numbers using python
+
+    a=4
+    b=6
+    c=a+b
+    print("The sum {} and {} is {}".format(a,b,c))
