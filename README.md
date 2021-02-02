@@ -45,3 +45,10 @@ Explain about sum of two numbers using python
     b=6
     c=a+b
     print("The sum {} and {} is {}".format(a,b,c))
+    
+# Select option:
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item:
+
